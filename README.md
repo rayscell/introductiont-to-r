@@ -1,2 +1,2 @@
 # introductiont-to-r
-This is the introduction to R 
+This is an introduction to R 
